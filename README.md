@@ -1,4 +1,4 @@
-# ARIMA_BondYields
+# ARIMA BondYields
 Topic: Predicting US Bond Yields, Using Supervised and Unsupervised Learning Techniques
 Introduction:
 Goal: Expanding upon the groundwork established by Lih Chyun Shu and Ju-Kun Chou in their 2021 research, this project endeavors to elevate bond yield prediction through the integration of supplementary features and the utilization of various machine learning methods. This project aims to generate a comparative analysis between the various supervised and unsupervised approaches we plan to implement, building upon the foundation laid by the aforementioned study. This data is important and useful because accurate bond yield prediction is crucial for investors, financial institutions, and policymakers. It enables them to make informed decisions regarding bond investments, risk management, and monetary policy formulation. Improving the accuracy of bond yield forecasting can lead to better allocation of resources, reduced financial risks, and improved economic outcomes.
